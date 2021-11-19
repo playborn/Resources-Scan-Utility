@@ -1,6 +1,8 @@
 # Resources-Scan-Utility
 
 --- READ ME IN PROGRESS ---
+  - Testet under Windows 10, use on your own risk.
+
 
   - Because i have no clue about licences you have to get ImageMagick Portable by yourself and put the files in "modul\imageMagick\" ---
   - https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-portable-Q16-x64.zip
