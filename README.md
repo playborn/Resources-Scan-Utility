@@ -12,7 +12,7 @@ InGame settings:
   - Set your Map to "OSM Humanity"
   - ScanCloud 0% transparent
  
-How to use:
+How to use: (example pictures are in "input" folder, hopefully it is self explaining)
   - First screenshot without scancloud and bright mode, name the first screenshot "1.png" so the script use this picture as background (script sorts alphabetic)
   - Now make screenshots of your resource scans in DARK MODE (with Scancloud)
   - put all your pictures in "input" Folder
